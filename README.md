@@ -33,5 +33,10 @@
 ---
 
 ### ⚡ GitHub Stats
-![Vedat's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedatdemir14&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedatdemir14&layout=compact&theme=radical)
+### ⚡ GitHub Activities
+
+
+![Vedat's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedatdemir14&show_icons=true&theme=transparent&rank_icon=github)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedatdemir14&layout=compact&theme=transparent&hide_border=true)
