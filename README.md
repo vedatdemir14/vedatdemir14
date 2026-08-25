@@ -41,7 +41,6 @@
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vedatdemir14&layout=compact&theme=algolia)
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
+### 👀 Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=blue)
