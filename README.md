@@ -43,4 +43,4 @@
 
 ### 👀 Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=vedatdemir14&color=blue)
